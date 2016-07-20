@@ -19,7 +19,7 @@ Contents of Solution Package:
 Documenation and Instructions
 ---
 
-<p><img src="https://448bb31d92917ba3390f-4a8f48d20b0d8c78b979208d38d37653.ssl.cf1.rackcdn.com/706/screenshots/download.png" alt="" width="200" height="63" /></p>
+<p><img src="https://448bb31d92917ba3390f-4a8f48d20b0d8c78b979208d38d37653.ssl.cf1.rackcdn.com/706/screenshots/download.png" alt="" width="250" height="79" /></p>
 <p>SharePoint is a web application platform in the Microsoft Office server suite. Launched in 2001, SharePoint combines various functions which are traditionally separate applications: intranet, extranet, content management, document management, personal cloud, enterprise social networking, enterprise search, business intelligence, workflow management, web content management, and an enterprise application store. SharePoint servers have traditionally been deployed for internal use in mid-size businesses and large departments alongside Microsoft Exchange, Skype for Business, and Office Web Apps.</p>
 <p>The Microsoft SharePoint Action Pack allows you to build visual workflows to automate SharePoint related activities.</p>
 <p><strong>Pre-Requisites</strong></p>
